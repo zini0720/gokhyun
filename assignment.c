@@ -3,6 +3,8 @@
 void git(int n);
 
 int main(){
+
+	int n=1;
 	
 	printf("Hello git!\n");
 	
