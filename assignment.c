@@ -2,6 +2,8 @@
 
 void git(int n);
 
+void firstbranch(int n);
+
 int main(){
 	
 	printf("Hello git!\n");
@@ -16,4 +18,8 @@ void git(int n){
 		printf("I hate git\n");
 	}
 	else printf("I love git\n");
+}
+
+void firstbranch(int n){
+	printf("%d is the number you made",n);
 }
